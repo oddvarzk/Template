@@ -1,0 +1,19 @@
+{
+  "name": "--template",
+  "version": "0.0.1",
+  "description": "Template description ..",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oddvarzk/Template.git"
+  },
+  "author": "Oddvar Zakarias Kristiansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oddvarzk/Template/issues"
+  },
+  "homepage": "https://github.com/oddvarzk/Template#readme"
+}
